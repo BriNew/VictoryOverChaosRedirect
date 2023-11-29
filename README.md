@@ -1,0 +1,2 @@
+# VictoryOverChaosRedirect
+redirects
